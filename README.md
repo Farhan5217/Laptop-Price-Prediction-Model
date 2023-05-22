@@ -3,13 +3,18 @@
 
 This project aims to develop a machine learning model that predicts the prices of laptops based on various features and specifications. The model can be used by consumers, sellers, or manufacturers to estimate laptop prices in the market.
 
-
+![Screenshot](https://tse1.mm.bing.net/th?id=OIP.FDtyXNEcWO5jiy602RMQrwHaFj&pid=Api&P=0&h=180)
 
 ## Introduction
 
 This project aims to develop a machine learning model that predicts laptop prices based on various features and specifications.
 
 The model is useful for consumers, sellers, or manufacturers to estimate laptop prices in the market.
+
+![Screenshot](lp1.PNG)
+![Screenshot](lp2.PNG)
+![Screenshot](lp3.PNG)
+
 ## Dataset
 
 The project utilizes a dataset containing labeled laptop data, including prices and specifications.
