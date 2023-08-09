@@ -1,7 +1,7 @@
 
 # Laptop Price Prediction
 
-This project aims to develop a machine-learning model that predicts the prices of laptops based on various features and specifications. Consumers, sellers, or manufacturers can use the model to estimate laptop prices in the market.
+This project aims to develop a machine-learning model that predicts the prices of laptops based on various features and specifications. Consumers, sellers, or manufacturers can use the model to estimate laptop prices.
 
 ![Screenshot](https://tse1.mm.bing.net/th?id=OIP.FDtyXNEcWO5jiy602RMQrwHaFj&pid=Api&P=0&h=180)
 
